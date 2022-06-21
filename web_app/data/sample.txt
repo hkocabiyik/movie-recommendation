@@ -1,0 +1,243 @@
+
+The user
+{'Toy Story (1995)': '3', 'Casino (1995)': '3', 'Desperado (1995)': '4', 'Dave (1993)': '5', 'Robin Hood: Men in Tights (1993)': '1'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Godfather, The (1972) Rear Window (1954) Fight Club (1999) Star Wars: Episode IV - A New Hope (1977)
+The user
+{'Shawshank Redemption, The (1994)': '4', 'Godfather, The (1972)': '5', 'Toy Story (1995)': '5', 'Die Hard: With a Vengeance (1995)': '4', 'While You Were Sleeping (1995)': '1'}
+
+
+The Pred
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) Star Wars: Episode IV - A New Hope (1977) Fight Club (1999) Godfather: Part II, The (1974) Star Wars: Episode V - The Empire Strikes Back (1980)
+The user
+{'Toy Story (1995)': '5', 'Casino (1995)': '3', 'Dead Man Walking (1995)': '1', 'Sense and Sensibility (1995)': '4', 'Maverick (1994)': '1'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Star Wars: Episode IV - A New Hope (1977) Star Wars: Episode V - The Empire Strikes Back (1980) Godfather, The (1972) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+The user
+{'Heat (1995)': '4', 'Mask, The (1994)': '4', 'Maverick (1994)': '1', 'Forrest Gump (1994)': '5', 'Grease (1978)': '1'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Godfather, The (1972) Fight Club (1999) Pulp Fiction (1994) Godfather: Part II, The (1974)
+The user
+{'Heat (1995)': '5', 'Terminator 2: Judgment Day (1991)': '4', 'Aladdin (1992)': '2', '2001: A Space Odyssey (1968)': '4', 'Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)': '1'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Fight Club (1999) Godfather, The (1972) Rear Window (1954) Godfather: Part II, The (1974)
+The user
+{'Casino (1995)': '3', 'While You Were Sleeping (1995)': '3', 'Nightmare Before Christmas, The (1993)': '5', 'Terminator 2: Judgment Day (1991)': '1', 'Lost World: Jurassic Park, The (1997)': '1'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Departed, The (2006) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) Fight Club (1999) Godfather, The (1972)
+The user
+{'Heat (1995)': '4', 'Star Trek: Generations (1994)': '2', 'Dave (1993)': '4', 'Lion King, The (1994)': '1', 'Mary Poppins (1964)': '4'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) Godfather, The (1972) Star Wars: Episode IV - A New Hope (1977) Godfather: Part II, The (1974)
+The user
+{'Heat (1995)': '3', 'Pulp Fiction (1994)': '4', 'Star Trek: Generations (1994)': '1', 'Clear and Present Danger (1994)': '5', 'Independence Day (a.k.a. ID4) (1996)': '1'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) Casablanca (1942) Godfather, The (1972) Godfather: Part II, The (1974)
+The user
+{'Heat (1995)': '4', 'Desperado (1995)': '1', 'Addams Family Values (1993)': '3', 'Abyss, The (1989)': '5', 'Mask, The (1994)': '5'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) Godfather, The (1972) Godfather: Part II, The (1974) Rear Window (1954)
+The user
+{'GoldenEye (1995)': '4', 'Forrest Gump (1994)': '4', 'Mrs. Doubtfire (1993)': '1', 'Nightmare Before Christmas, The (1993)': '5', 'Starship Troopers (1997)': '3'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) Godfather, The (1972) Fight Club (1999) Departed, The (2006)
+The user
+{'GoldenEye (1995)': '4', 'Get Shorty (1995)': '4', 'Crow, The (1994)': '4', 'Pulp Fiction (1994)': '4', 'Cliffhanger (1993)': '5'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Fight Club (1999) Godfather, The (1972) Rear Window (1954) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+The user
+{'Casino (1995)': '5', 'Robin Hood: Men in Tights (1993)': '2', 'Forrest Gump (1994)': '1', 'Rock, The (1996)': '5', 'Shawshank Redemption, The (1994)': '4'}
+
+
+The Pred
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) Departed, The (2006) Goodfellas (1990) Princess Bride, The (1987) Godfather, The (1972)
+The user
+{'Casino (1995)': '5', 'Robin Hood: Men in Tights (1993)': '2', 'Forrest Gump (1994)': '1', 'Rock, The (1996)': '5', 'Shawshank Redemption, The (1994)': '4'}
+
+
+The Pred
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) Departed, The (2006) Goodfellas (1990) Princess Bride, The (1987) Godfather, The (1972)
+The user
+{'Casino (1995)': '5', 'Robin Hood: Men in Tights (1993)': '2', 'Forrest Gump (1994)': '1', 'Rock, The (1996)': '5', 'Shawshank Redemption, The (1994)': '4'}
+
+
+The Pred
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) Departed, The (2006) Goodfellas (1990) Princess Bride, The (1987) Godfather, The (1972)
+The user
+{'Sense and Sensibility (1995)': '5', 'Léon: The Professional (a.k.a. The Professional) (Léon) (1994)': '2', 'Honey, I Shrunk the Kids (1989)': '3', 'Star Wars: Episode V - The Empire Strikes Back (1980)': '1', 'American Pie (1999)': '4'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) Casablanca (1942) Eternal Sunshine of the Spotless Mind (2004) Departed, The (2006)
+The user
+{'Leaving Las Vegas (1995)': '4', 'Sin City (2005)': '4', 'Stand by Me (1986)': '2', 'Goodfellas (1990)': '2', 'Twister (1996)': '1'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Godfather, The (1972) Star Wars: Episode IV - A New Hope (1977) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) Fight Club (1999)
+The user
+{'Fight Club (1999)': '5', 'Godfather, The (1972)': '5', 'Shawshank Redemption, The (1994)': '5', 'Toy Story (1995)': '1', 'Apollo 13 (1995)': '5'}
+
+
+The Pred
+Matrix, The (1999) Godfather: Part II, The (1974) Schindler's List (1993) Rear Window (1954) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+The user
+{'': '4'}
+
+
+The user
+{'GoldenEye (1995)': '4', 'Judge Dredd (1995)': '4', 'Apollo 13 (1995)': '2', "Schindler's List (1993)": '3', 'Scarface (1983)': '4'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) Departed, The (2006) Pulp Fiction (1994) Godfather, The (1972)
+The user
+{'Ace Ventura: When Nature Calls (1995)': '5', 'Shawshank Redemption, The (1994)': '5', 'Usual Suspects, The (1995)': '5', 'Casino (1995)': '2', 'Batman (1989)': '1'}
+
+
+The Pred
+Fight Club (1999) Godfather, The (1972) Godfather: Part II, The (1974) Rear Window (1954) Pulp Fiction (1994)
+The user
+{'Broken Arrow (1996)': '2', 'True Romance (1993)': '1', 'Independence Day (a.k.a. ID4) (1996)': '4', 'Wizard of Oz, The (1939)': '5', 'Aliens (1986)': '5'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Matrix, The (1999) Godfather, The (1972) Fight Club (1999) Star Wars: Episode IV - A New Hope (1977)
+The user
+{'Heat (1995)': '4', 'Desperado (1995)': '1', 'Addams Family Values (1993)': '3', 'Abyss, The (1989)': '5', 'Mask, The (1994)': '5'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) Godfather, The (1972) Godfather: Part II, The (1974) Rear Window (1954)
+The user
+{'Heat (1995)': '3', 'Pulp Fiction (1994)': '4', 'Star Trek: Generations (1994)': '1', 'Clear and Present Danger (1994)': '5', 'Independence Day (a.k.a. ID4) (1996)': '1'}
+
+
+The Pred
+Shawshank Redemption, The (1994) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) Casablanca (1942) Godfather, The (1972) Godfather: Part II, The (1974)
+The user
+{'Philadelphia (1993)': '5', 'Blade Runner (1982)': '4', 'Shawshank Redemption, The (1994)': '5', 'Ace Ventura: When Nature Calls (1995)': '5', '': '2'}
+
+
+The user
+{'Philadelphia (1993)': '5', 'Blade Runner (1982)': '4', 'Shawshank Redemption, The (1994)': '5', 'Ace Ventura: When Nature Calls (1995)': '5', 'Jumanji (1995)': '2'}
+
+
+The Pred
+Fight Club (1999) Godfather, The (1972) Pulp Fiction (1994) Godfather: Part II, The (1974) Usual Suspects, The (1995)
+The user
+{'Heat (1995)': '3', 'Casper (1995)': '2', "Schindler's List (1993)": '3', 'Terminator 2: Judgment Day (1991)': '4', 'Nutty Professor, The (1996)': '5'}
+
+
+The user
+{'GoldenEye (1995)': '4', 'Crow, The (1994)': '2', 'Sense and Sensibility (1995)': '4', 'While You Were Sleeping (1995)': '5', 'True Lies (1994)': '1'}
+
+
+The user
+{'Jumanji (1995)': '3', 'Clear and Present Danger (1994)': '1', 'Addams Family Values (1993)': '4', 'While You Were Sleeping (1995)': '2', 'Mrs. Doubtfire (1993)': '5'}
+
+
+The user
+{'Judge Dredd (1995)': '4', 'Willy Wonka & the Chocolate Factory (1971)': '1', 'Mars Attacks! (1996)': '5', 'Game, The (1997)': '3', 'Graduate, The (1967)': '2'}
+
+
+The Pred
+Starship Troopers (1997) Sin City (2005) True Romance (1993) Natural Born Killers (1994) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+The user
+{'Toy Story (1995)': '3', 'Batman Forever (1995)': '3', 'Crow, The (1994)': '5', "Schindler's List (1993)": '2', 'Philadelphia (1993)': '1'}
+
+
+The Pred
+Casablanca (1942) Die Hard (1988) Taxi Driver (1976) Crimson Tide (1995) Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)
+The user
+{'Babe (1995)': '5', 'Mrs. Doubtfire (1993)': '2', 'Lion King, The (1994)': '4', 'Platoon (1986)': '3', 'Ice Age (2002)': '3'}
+
+
+The Pred
+Finding Nemo (2003) Forrest Gump (1994) Ratatouille (2007) Incredibles, The (2004) Truman Show, The (1998)
+The user
+{'Apollo 13 (1995)': '5', 'Rock, The (1996)': '2', 'Toy Story (1995)': '5', 'Ed Wood (1994)': '1', 'Forrest Gump (1994)': '5'}
+
+
+The Pred
+Good Will Hunting (1997) Mr. Holland's Opus (1995) Clear and Present Danger (1994) Lion King, The (1994) Star Wars: Episode IV - A New Hope (1977)
+The user
+{'Django Unchained (2012)': '5', "What's Eating Gilbert Grape (1993)": '4', 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)': '3', 'GoldenEye (1995)': '5', 'X2: X-Men United (2003)': '5'}
+
+
+The Pred
+Finding Nemo (2003) Silence of the Lambs, The (1991) While You Were Sleeping (1995) True Lies (1994) Aladdin (1992)
+The user
+{'GoldenEye (1995)': '2', 'Crimson Tide (1995)': '5', 'While You Were Sleeping (1995)': '2', 'Tombstone (1993)': '5', 'Heat (1995)': '3'}
+
+
+The Pred
+What's Eating Gilbert Grape (1993) Dave (1993) Clerks (1994) Twelve Monkeys (a.k.a. 12 Monkeys) (1995) Philadelphia (1993)
+The user
+{'Crimson Tide (1995)': '5', 'Tombstone (1993)': '3', 'Jumanji (1995)': '1', 'Mrs. Doubtfire (1993)': '5', 'Dragonheart (1996)': '2'}
+
+
+The Pred
+Toy Story (1995) Clueless (1995) Willy Wonka & the Chocolate Factory (1971) Nutty Professor, The (1996) Independence Day (a.k.a. ID4) (1996) Santa Clause, The (1994) Interview with the Vampire: The Vampire Chronicles (1994) Happy Gilmore (1996) Star Trek: First Contact (1996) Ace Ventura: When Nature Calls (1995)
+The user
+{'Monsters, Inc. (2001)': '4', 'Fugitive, The (1993)': '5', 'Ace Ventura: Pet Detective (1994)': '4', "What's Eating Gilbert Grape (1993)": '3', 'Departed, The (2006)': '5'}
+
+
+The Pred
+Braveheart (1995) Gladiator (2000) Good Will Hunting (1997) Dark Knight, The (2008) Die Hard: With a Vengeance (1995) Dumb & Dumber (Dumb and Dumber) (1994) Die Hard (1988) Stargate (1994) Lock, Stock & Two Smoking Barrels (1998) Bourne Identity, The (2002)
+The user
+{'Godfather, The (1972)': '5', 'Godfather: Part II, The (1974)': '5', 'Shawshank Redemption, The (1994)': '5', 'Interstellar (2014)': '5', 'Apollo 13 (1995)': '5'}
+
+
+The Pred
+Dark Knight Rises, The (2012) Matrix, The (1999) Léon: The Professional (a.k.a. The Professional) (Léon) (1994) Inception (2010) WALL·E (2008) Lion King, The (1994) Schindler's List (1993) Aladdin (1992) Dark Knight, The (2008) Departed, The (2006)
+The user
+{'Jumanji (1995)': '3', 'Legends of the Fall (1994)': '2', 'Forrest Gump (1994)': '2', 'Firm, The (1993)': '1'}
+
+
+The Pred
+Birdcage, The (1996) Sense and Sensibility (1995) American President, The (1995) Léon: The Professional (a.k.a. The Professional) (Léon) (1994) In the Line of Fire (1993) Net, The (1995) Schindler's List (1993)
+The user
+{'American President, The (1995)': '5', 'True Lies (1994)': '2', "What's Eating Gilbert Grape (1993)": '4', 'Silence of the Lambs, The (1991)': '1', 'Jurassic Park (1993)': '4'}
+
+
+The Pred
+Tombstone (1993) Shawshank Redemption, The (1994) Ace Ventura: Pet Detective (1994) Net, The (1995) Braveheart (1995) Stargate (1994) Four Weddings and a Funeral (1994)
+The user
+{'Taxi Driver (1976)': '4', 'Tombstone (1993)': '2', 'Home Alone (1990)': '5', 'Firm, The (1993)': '1', 'Rear Window (1954)': '4'}
+
+
+The Pred
+Casablanca (1942) American Beauty (1999) One Flew Over the Cuckoo's Nest (1975) Willy Wonka & the Chocolate Factory (1971) L.A. Confidential (1997) Léon: The Professional (a.k.a. The Professional) (Léon) (1994) Breakfast Club, The (1985)
+The user
+{'Toy Story (1995)': '4', 'Outbreak (1995)': '3', 'Stargate (1994)': '1', 'Mrs. Doubtfire (1993)': '3', 'In the Line of Fire (1993)': '5'}
+
+
+The Pred
+Dances with Wolves (1990) Net, The (1995) Schindler's List (1993) GoldenEye (1995) Seven (a.k.a. Se7en) (1995) Twister (1996) Braveheart (1995)
+The user
+{'GoldenEye (1995)': '4', 'Shawshank Redemption, The (1994)': '5', 'True Lies (1994)': '4', 'Sound of Music, The (1965)': '2'}
+
+
+The Pred
+Usual Suspects, The (1995) Schindler's List (1993) Dead Poets Society (1989) Erin Brockovich (2000) Chicken Run (2000) Toy Story (1995) Pocahontas (1995)

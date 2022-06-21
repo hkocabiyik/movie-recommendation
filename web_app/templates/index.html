@@ -1,0 +1,38 @@
+<!--Just type ! and press Enter to get a prefilled skeletal code of html-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome Page</title> <!--Whatever is written under title is dispalyed on the tab of the webpage-->
+    <link rel="stylesheet" type="text/css" href="/static/main.css"/><!--linking css style sheet to html-->
+</head>
+<body>
+    <h1>Hello {{name}}</h1> <!--Passing the jinja template, the value of name is passed from python file to html-->
+    <h2>Simple random movie recommender</h2>
+    <!--<img src="static/logo.svg"/>--> <!--Placing an image in html-->
+    <p>Please rate your movies</p>
+    <!--Creating a form for the user to input values through the webpage-->
+    <form action="/recommend"> <!--After clicking on submit button the routing is done on the /recommend-->
+        {% for index in range(5) %}
+        <!--name passed inorder to reference the input tag, placeholder writes text inside input field-->
+        <input type="text" name="title" placeholder="Enter movies" list="movies">
+        <input type="number" name="ratings" placeholder="(1-5)" min="1" max="5" required>
+        <br>
+        {% endfor %}
+        
+        <input type="submit">Show Recommendation</button>
+        
+
+    </form>   
+    <!--For having the dropdown menu for choosing movies, list='movies' in
+        the first input is mapped to the options in datalist 
+    movies=movies['title'].tolist() has been passed from render_template of welcome function in app.py-->
+    <datalist id="movies">
+        {%for movie in movies %}
+        <option value = "{{movie}}"></option>
+        {% endfor %}
+    </datalist>
+</body>
+</html>
